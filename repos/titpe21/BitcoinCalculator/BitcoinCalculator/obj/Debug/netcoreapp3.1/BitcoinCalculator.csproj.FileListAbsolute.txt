@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\titpe21\BitcoinCalculator\BitcoinCalculator\bin\Debug\netcoreapp3.1\BitcoinCalculator.exe
+C:\Users\opilane\source\repos\titpe21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\BitcoinCalculator\BitcoinCalculator\obj\Debug\netcoreapp3.1\BitcoinCalculator.AssemblyInfo.cs
